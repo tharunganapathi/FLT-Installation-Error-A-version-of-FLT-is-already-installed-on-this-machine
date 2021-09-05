@@ -43,7 +43,7 @@ This method will work for all FLT problems, when you delete those registry files
 <br>
    I hope you understand the above instructions, and also I have made a video for this, please do watch that incase if you cant understand. 
 
-    link : https://www.youtube.com/watch?v=PQNsz2aWdAk
+    link : https://www.youtube.com/watch?v=PQNsz2aWdAk/channel=THARUNGANAPATHI
 <br> 
 
 ![FLT Error](https://user-images.githubusercontent.com/65713157/132124150-0ec623b1-a0f9-4ae4-af92-951be7130436.jpg)
