@@ -31,9 +31,10 @@ This method will work for all FLT problems, when you delete those registry files
 ![3  Foundry License Server](https://user-images.githubusercontent.com/65713157/132123723-097b9f86-c619-4720-9113-612d3bdbbf19.jpg)
 <br><br><br>
 
-#Note:<br>
+####  
+     Note:
+     The above method will definitely work for you, if that doesnt work, also try deleting the following registry key
 
-      The above method will definitely work for you, if that doesnt work, also try deleting the following registry key
 <br><br><br>
 
 ##   4. Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\FLT 7.1v1_is1
